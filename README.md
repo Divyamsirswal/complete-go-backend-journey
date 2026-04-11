@@ -1,3 +1,5 @@
+## Status: In Progress (Day 01 Completed)
+
 # Complete Go Backend Journey 
 
 This repository documents my journey to mastering backend development using Go — focusing on strong fundamentals.
