@@ -1,14 +1,14 @@
-# 🧘‍♂️ Complete Go Backend Journey 
+# Complete Go Backend Journey 
 
 This repository documents my journey to mastering backend development using Go — focusing on strong fundamentals.
 
-## 📌 Goal
+## Goal
 
 * Master backend basics deeply
 * Build strong problem-solving skills
 * Avoid skipping fundamentals
 
-## 🧱 Structure
+## Structure
 
 ```
 day01/
@@ -16,18 +16,18 @@ day02/
 notes/
 ```
 
-## ✅ Progress
+## Progress
 
 * [x] Day 01 – Variables & Data Types
 * [ ] Day 02 – Input/Output
 
-## 🧠 Learning Approach
+## Learning Approach
 
 * No skipping basics
 * Writing own notes
 * Building small challenges daily
 
-## ⚔️ Challenges
+## Challenges
 
 Each day includes hands-on coding challenges.
 
