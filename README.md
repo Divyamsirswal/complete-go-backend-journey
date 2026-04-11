@@ -8,14 +8,6 @@ This repository documents my journey to mastering backend development using Go â
 * Build strong problem-solving skills
 * Avoid skipping fundamentals
 
-## Structure
-
-```
-day01/
-day02/
-notes/
-```
-
 ## Progress
 
 * [x] Day 01 â€“ Variables & Data Types
