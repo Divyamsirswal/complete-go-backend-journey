@@ -1,4 +1,4 @@
-## Status: In Progress (Day 01 Completed)
+## Status: In Progress (Day 02 Completed)
 
 # Complete Go Backend Journey 
 
