@@ -13,7 +13,8 @@ This repository documents my journey to mastering backend development using Go f
 ## Progress
 
 * [x] Day 01 – Variables & Data Types
-* [ ] Day 02 – Input/Output
+* [x] Day 02 – Input/Output
+* [ ] Day 03 – Loops
 
 ## Learning Approach
 
@@ -24,6 +25,9 @@ This repository documents my journey to mastering backend development using Go f
 ## Challenges
 
 Each day includes hands-on coding challenges.
+
+## Philosophy
+> Strong fundamentals > Fast progress
 
 ---
 
