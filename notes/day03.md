@@ -1,13 +1,13 @@
 ## Why is loop better than repeating code?
-* because things become repeatitive and its not good to write same print line 10000 time instead use loops to save ur time
+* Loops reduce code repetition, improve readability, and make programs scalable for large tasks.
 
 
 ## What causes an infinite loop? 
-* when u use loop without stopping condition tends to infinite loop
+* An infinite loop occurs when the loop condition never becomes false.
 
 ## Difference between ```break``` and ```continue```
-* ```break``` - use to break the loop according to the condition
-* ```continue``` - use to skip the particular condition
+* ```break``` - exits the loop completely
+* ```continue``` - skips current iteration and moves to next
 
 ## What happens if condition is always true?
-* i dont get this ques properly
+* If the condition is always true, the loop will run forever → infinite loop
