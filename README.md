@@ -1,4 +1,4 @@
-## Status: In Progress (Day 04 Completed)
+## Status: In Progress (Day 05 Completed)
 
 # Complete Go Backend Journey 
 
@@ -16,7 +16,8 @@ This repository documents my journey to mastering backend development using Go f
 * [x] Day 02 – Input/Output
 * [x] Day 03 – Loops
 * [x] Day 04 – Nested Loops & Strings
-* [] Day 05 – Functions
+* [x] Day 05 – Functions
+* 
 
 
 ## Learning Approach
