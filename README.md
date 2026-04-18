@@ -4,6 +4,8 @@
 
 # 🚀 Complete Go Backend Journey
 
+[![YouTube](https://img.shields.io/badge/Live_on_YouTube-@classic4650-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@classic4650)
+
 ### From zero to production-ready Go engineer — one day at a time.
 
 [![Days Completed](https://img.shields.io/badge/Days_Completed-06-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
@@ -203,6 +205,20 @@ Stuck on a specific concept? Jump straight into `/notes/dayXX.md` for a plain-En
 - 🐛 **Open an issue** if you spot a bug or mistake in the code or notes
 - 💡 **Start a discussion** to ask questions or suggest topics
 - 🤝 **PRs welcome** for corrections, cleaner solutions, or better explanations
+
+---
+
+## 🔴 Live Coding Sessions
+
+I code this journey **live on YouTube** — every day's folder is written on stream, no cuts.
+
+📺 **Channel:** [youtube.com/@classic4650](https://www.youtube.com/@classic4650)
+
+- Watch me think through problems in real time
+- Ask questions live in the chat
+- Every stream = one day's progress in this repo
+
+> Streams are unedited. You see the mistakes, the fixes, and the reasoning — not just the final code.
 
 ---
 
