@@ -8,8 +8,8 @@
 
 ### From zero to production-ready Go engineer — one day at a time.
 
-[![Days Completed](https://img.shields.io/badge/Days_Completed-09-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
-[![Phase](https://img.shields.io/badge/Phase-1%20Core%20Programming-blueviolet?style=flat-square)](.)
+[![Days Completed](https://img.shields.io/badge/Days_Completed-10-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
+[![Phase](https://img.shields.io/badge/Phase-2%20Backend%20Fundamentals-orange?style=flat-square)](.)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](.)
 [![Livestream](https://img.shields.io/badge/Livestreamed-Daily-FF0000?style=flat-square&logo=youtube&logoColor=white)](.)
 [![Stars](https://img.shields.io/github/stars/Divyamsirswal/complete-go-backend-journey?style=flat-square&color=yellow)](.)
@@ -64,6 +64,7 @@ complete-go-backend-journey/
 │   ├── day07/
 │   ├── day08/
 │   ├── day09/
+│   ├── day10/
 │   └── ...                      ← New folder added every day
 │
 ├── 📝 notes/                    ← Day-wise concept notes, written in plain English
@@ -76,6 +77,7 @@ complete-go-backend-journey/
 │   ├── day07.md                 ← Maps & Intro to Structs
 │   ├── day08.md                 ← Structs deeply, nested structs, real-world modeling
 │   ├── day09.md                 ← Pointers & Memory Understanding
+│   ├── day10.md                 ← Error Handling
 │   └── ...                      ← New note added every day
 │
 ├── 🔨 projects/                 ← Real backend projects built during the journey
@@ -91,7 +93,7 @@ complete-go-backend-journey/
 
 ## 📅 Daily Progress Log
 
-### 🧱 Phase 1 — Core Programming (Days 01–10)
+### 🧱 Phase 1 — Core Programming (Days 01–10) ✅ COMPLETE
 > Build the foundation so strong that everything else becomes easy.
 
 | Day | Topic | Status | Notes |
@@ -105,16 +107,16 @@ complete-go-backend-journey/
 | Day 07 | Maps & Intro to Structs | ✅ Done | [📝](./notes/day07.md) |
 | Day 08 | Structs Deeply — Nested Structs & Real-World Modeling | ✅ Done | [📝](./notes/day08.md) |
 | Day 09 | Pointers & Memory Understanding | ✅ Done | [📝](./notes/day09.md) |
-| Day 10 | Error Handling Basics | 🔄 In Progress | — |
+| Day 10 | Error Handling Basics | ✅ Done | [📝](./notes/day10.md) |
 
 ---
 
-### 🌐 Phase 2 — Backend Fundamentals (Days 11–20)
+### 🌐 Phase 2 — Backend Fundamentals (Days 11–20) 🔄 Active
 > You stop writing programs. You start building backend services.
 
 | Days | Topic | Status |
 |------|-------|--------|
-| Day 11–12 | HTTP Basics — Build First Server with `net/http` | ⏳ Upcoming |
+| Day 11–12 | HTTP Basics — Build First Server with `net/http` |  🔄 In Progress |
 | Day 13–14 | Routing & JSON Handling | ⏳ Upcoming |
 | Day 15–16 | REST API — Full CRUD | ⏳ Upcoming |
 | Day 17–18 | Database Basics, SQL Intro, Connect Go + PostgreSQL | ⏳ Upcoming |
@@ -148,7 +150,7 @@ complete-go-backend-journey/
 ## 🗺️ Full Roadmap
 
 ```
-Phase 1 — Core Go         (Days 01–10)  ██████████████░░   90%
+Phase 1 — Core Go         (Days 01–10)  ████████████████   100%
 Phase 2 — Backend         (Days 11–20)  ░░░░░░░░░░░░░░░░   0%
 Phase 3 — Real Features   (Days 21–30)  ░░░░░░░░░░░░░░░░   0%
 Bonus   — Docker & Deploy (Post Day 30) ░░░░░░░░░░░░░░░░   0%
@@ -186,6 +188,7 @@ Each day's concepts are documented in `/notes/dayXX.md` — written after the to
 | [day07.md](./notes/day07.md) | Maps, key-value operations, intro to structs |
 | [day08.md](./notes/day08.md) | Structs deeply, nested structs, real-world modeling |
 | [day09.md](./notes/day09.md) | Pointers, memory addresses, dereferencing |
+| [day10.md](./notes/day10.md) | Error handling, custom errors, idiomatic Go errors |
 
 > New note added every day. If you're stuck on a concept, read the note for that day before googling.
 
