@@ -8,7 +8,7 @@
 
 ### From zero to production-ready Go engineer — one day at a time.
 
-[![Days Completed](https://img.shields.io/badge/Days_Completed-10-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
+[![Days Completed](https://img.shields.io/badge/Days_Completed-11-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
 [![Phase](https://img.shields.io/badge/Phase-2%20Backend%20Fundamentals-orange?style=flat-square)](.)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](.)
 [![Livestream](https://img.shields.io/badge/Livestreamed-Daily-FF0000?style=flat-square&logo=youtube&logoColor=white)](.)
@@ -65,6 +65,7 @@ complete-go-backend-journey/
 │   ├── day08/
 │   ├── day09/
 │   ├── day10/
+│   ├── day11/
 │   └── ...                      ← New folder added every day
 │
 ├── 📝 notes/                    ← Day-wise concept notes, written in plain English
@@ -78,6 +79,7 @@ complete-go-backend-journey/
 │   ├── day08.md                 ← Structs deeply, nested structs, real-world modeling
 │   ├── day09.md                 ← Pointers & Memory Understanding
 │   ├── day10.md                 ← Error Handling
+│   ├── day11.md                 ← HTTP Basics
 │   └── ...                      ← New note added every day
 │
 ├── 🔨 projects/                 ← Real backend projects built during the journey
@@ -116,8 +118,8 @@ complete-go-backend-journey/
 
 | Days | Topic | Status |
 |------|-------|--------|
-| Day 11–12 | HTTP Basics — Build First Server with `net/http` |  🔄 In Progress |
-| Day 13–14 | Routing & JSON Handling | ⏳ Upcoming |
+| Day 11–12 | HTTP Basics — Build First Server with `net/http` | ✅ Done |
+| Day 13–14 | Routing & JSON Handling | 🔄 In Progress |
 | Day 15–16 | REST API — Full CRUD | ⏳ Upcoming |
 | Day 17–18 | Database Basics, SQL Intro, Connect Go + PostgreSQL | ⏳ Upcoming |
 | Day 19–20 | **Mini Project:** Simple Users / Notes API | ⏳ Upcoming |
@@ -151,7 +153,7 @@ complete-go-backend-journey/
 
 ```
 Phase 1 — Core Go         (Days 01–10)  ████████████████   100%
-Phase 2 — Backend         (Days 11–20)  ░░░░░░░░░░░░░░░░   0%
+Phase 2 — Backend         (Days 11–20)  ███░░░░░░░░░░░░░  20%
 Phase 3 — Real Features   (Days 21–30)  ░░░░░░░░░░░░░░░░   0%
 Bonus   — Docker & Deploy (Post Day 30) ░░░░░░░░░░░░░░░░   0%
 ```
@@ -189,6 +191,7 @@ Each day's concepts are documented in `/notes/dayXX.md` — written after the to
 | [day08.md](./notes/day08.md) | Structs deeply, nested structs, real-world modeling |
 | [day09.md](./notes/day09.md) | Pointers, memory addresses, dereferencing |
 | [day10.md](./notes/day10.md) | Error handling, custom errors, idiomatic Go errors |
+| [day11.md](./notes/day11.md) | `net/http`, `ListenAndServe`, handlers, request/response cycle |
 
 > New note added every day. If you're stuck on a concept, read the note for that day before googling.
 
