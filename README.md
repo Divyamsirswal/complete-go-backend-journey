@@ -81,7 +81,7 @@ complete-go-backend-journey/
 │   ├── day09.md                 ← Pointers & Memory Understanding
 │   ├── day10.md                 ← Error Handling
 │   ├── day11.md                 ← HTTP Basics
-│   ├── day12.md                 ← JSON Handling
+│   ├── day12.md                 ← JSON encoding, decoding, struct tags, json.Marshal/Unmarshal
 │   └── ...                      ← New note added every day
 │
 ├── 🔨 projects/                 ← Real backend projects built during the journey
@@ -195,7 +195,7 @@ Each day's concepts are documented in `/notes/dayXX.md` — written after the to
 | [day09.md](./notes/day09.md) | Pointers, memory addresses, dereferencing |
 | [day10.md](./notes/day10.md) | Error handling, custom errors, idiomatic Go errors |
 | [day11.md](./notes/day11.md) | `net/http`, `ListenAndServe`, handlers, request/response cycle |
-| [day12.md](./notes/day12.md) | HTTP deep dive, query params, headers, middleware basics |
+| [day12.md](./notes/day12.md) | JSON encoding, decoding, struct tags |
 
 > New note added every day. If you're stuck on a concept, read the note for that day before googling.
 
