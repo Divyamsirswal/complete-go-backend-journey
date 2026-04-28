@@ -8,7 +8,7 @@
 
 ### From zero to production-ready Go engineer — one day at a time.
 
-[![Days Completed](https://img.shields.io/badge/Days_Completed-14-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
+[![Days Completed](https://img.shields.io/badge/Days_Completed-15-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
 [![Phase](https://img.shields.io/badge/Phase-2%20Backend%20Fundamentals-orange?style=flat-square)](.)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](.)
 [![Livestream](https://img.shields.io/badge/Livestreamed-Daily-FF0000?style=flat-square&logo=youtube&logoColor=white)](.)
@@ -69,6 +69,7 @@ complete-go-backend-journey/
 │   ├── day12/
 │   ├── day13/
 │   ├── day14/
+│   ├── day15/
 │   └── ...                      ← New folder added every day
 │
 ├── 📝 notes/                    ← Day-wise concept notes, written in plain English
@@ -86,6 +87,7 @@ complete-go-backend-journey/
 │   ├── day12.md                 ← JSON encoding, decoding, struct tags, json.Marshal/Unmarshal
 │   ├── day13.md                 ← Routing, API design, URL patterns, method handling
 │   ├── day14.md                 ← Clean API structure, JSON responses, route organization
+│   ├── day15.md                 ← Full CRUD API — Create, Read, Update, Delete handlers
 │   └── ...                      ← New note added every day
 │
 ├── 🔨 projects/                 ← Real backend projects built during the journey
@@ -160,7 +162,7 @@ complete-go-backend-journey/
 
 ```
 Phase 1 — Core Go         (Days 01–10)  ████████████████   100%
-Phase 2 — Backend         (Days 11–20)  █████████████░░░   80%
+Phase 2 — Backend         (Days 11–20)  ████████░░░░░░░░   50%
 Phase 3 — Real Features   (Days 21–30)  ░░░░░░░░░░░░░░░░   0%
 Bonus   — Docker & Deploy (Post Day 30) ░░░░░░░░░░░░░░░░   0%
 ```
@@ -202,6 +204,7 @@ Each day's concepts are documented in `/notes/dayXX.md` — written after the to
 | [day12.md](./notes/day12.md) | JSON encoding, decoding, struct tags |
 | [day13.md](./notes/day13.md) | Routing, URL patterns, method-based handlers, API design |
 | [day14.md](./notes/day14.md) | Clean API structure, JSON responses, route organization |
+| [day15.md](./notes/day15.md) | Full CRUD — GET, POST, PUT, DELETE handlers, in-memory store |
 
 > New note added every day. If you're stuck on a concept, read the note for that day before googling.
 
