@@ -70,6 +70,7 @@ complete-go-backend-journey/
 │   ├── day13/
 │   ├── day14/
 │   ├── day15/
+│   ├── day16/
 │   └── ...                      ← New folder added every day
 │
 ├── 📝 notes/                    ← Day-wise concept notes, written in plain English
@@ -88,6 +89,7 @@ complete-go-backend-journey/
 │   ├── day13.md                 ← Routing, API design, URL patterns, method handling
 │   ├── day14.md                 ← Clean API structure, JSON responses, route organization
 │   ├── day15.md                 ← Full CRUD API — Create, Read, Update, Delete handlers
+│   ├── day16.md                 ← Refactored CRUD API, clean structure, separation of concerns
 │   └── ...                      ← New note added every day
 │
 ├── 🔨 projects/                 ← Real backend projects built during the journey
@@ -129,8 +131,8 @@ complete-go-backend-journey/
 |------|-------|--------|
 | Day 11–12 | HTTP Basics — Build First Server with `net/http` | ✅ Done |
 | Day 13–14 | Routing & JSON Handling | ✅ Done |
-| Day 15–16 | REST API — Full CRUD | 🔄 In Progress |
-| Day 17–18 | Database Basics, SQL Intro, Connect Go + PostgreSQL | ⏳ Upcoming |
+| Day 15–16 | REST API — Full CRUD | ✅ Done |
+| Day 17–18 | Database Basics, SQL Intro, Connect Go + PostgreSQL | 🔄 In Progress |
 | Day 19–20 | **Mini Project:** Simple Users / Notes API | ⏳ Upcoming |
 
 ---
@@ -162,7 +164,7 @@ complete-go-backend-journey/
 
 ```
 Phase 1 — Core Go         (Days 01–10)  ████████████████   100%
-Phase 2 — Backend         (Days 11–20)  ████████░░░░░░░░   50%
+Phase 2 — Backend         (Days 11–20)  ██████████░░░░░░   60%
 Phase 3 — Real Features   (Days 21–30)  ░░░░░░░░░░░░░░░░   0%
 Bonus   — Docker & Deploy (Post Day 30) ░░░░░░░░░░░░░░░░   0%
 ```
@@ -205,6 +207,7 @@ Each day's concepts are documented in `/notes/dayXX.md` — written after the to
 | [day13.md](./notes/day13.md) | Routing, URL patterns, method-based handlers, API design |
 | [day14.md](./notes/day14.md) | Clean API structure, JSON responses, route organization |
 | [day15.md](./notes/day15.md) | Full CRUD — GET, POST, PUT, DELETE handlers, in-memory store |
+| [day16.md](./notes/day16.md) | Refactored CRUD API, clean code structure, separation of concerns |
 
 > New note added every day. If you're stuck on a concept, read the note for that day before googling.
 
