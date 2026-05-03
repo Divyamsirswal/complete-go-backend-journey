@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: postgres-backend
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_DB=go_backend
+    ports:
+      - "5432:5432"
+    restart: always
+    volumes:
+      - db-data:/var/lib/postgresql/data
+
+volumes:
+  db-data:

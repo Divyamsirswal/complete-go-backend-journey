@@ -8,7 +8,7 @@
 
 ### From zero to production-ready Go engineer — one day at a time.
 
-[![Days Completed](https://img.shields.io/badge/Days_Completed-17-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
+[![Days Completed](https://img.shields.io/badge/Days_Completed-18-00ADD8?style=flat-square&logo=go&logoColor=white)](.)
 [![Phase](https://img.shields.io/badge/Phase-2%20Backend%20Fundamentals-orange?style=flat-square)](.)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](.)
 [![Livestream](https://img.shields.io/badge/Livestreamed-Daily-FF0000?style=flat-square&logo=youtube&logoColor=white)](.)
@@ -72,6 +72,7 @@ complete-go-backend-journey/
 │   ├── day15/
 │   ├── day16/
 │   ├── day17/
+│   ├── day18/
 │   └── ...                      ← New folder added every day
 │
 ├── 📝 notes/                    ← Day-wise concept notes, written in plain English
@@ -91,7 +92,9 @@ complete-go-backend-journey/
 │   ├── day14.md                 ← Clean API structure, JSON responses, route organization
 │   ├── day15.md                 ← Full CRUD API — Create, Read, Update, Delete handlers
 │   ├── day16.md                 ← Refactored CRUD API, clean structure, separation of concerns
-│   ├── day17.md                 ← Database basics, SQL intro, CREATE/INSERT/SELECT/UPDATE/DELETE│   └── ...                      ← New note added every day
+│   ├── day17.md                 ← Database basics, SQL intro, CREATE/INSERT/SELECT/UPDATE/DELETE│   
+│   ├── day18.md                 ← Go + PostgreSQL connection, database/sql, query execution
+└── ...                      ← New note added every day
 │
 ├── 🔨 projects/                 ← Real backend projects built during the journey
 │   ├── 01-url-shortener/
@@ -133,8 +136,8 @@ complete-go-backend-journey/
 | Day 11–12 | HTTP Basics — Build First Server with `net/http` | ✅ Done |
 | Day 13–14 | Routing & JSON Handling | ✅ Done |
 | Day 15–16 | REST API — Full CRUD | ✅ Done |
-| Day 17–18 | Database Basics, SQL Intro, Connect Go + PostgreSQL | 🔄 In Progress |
-| Day 19–20 | **Mini Project:** Simple Users / Notes API | ⏳ Upcoming |
+| Day 17–18 | Database Basics, SQL Intro, Connect Go + PostgreSQL | ✅ Done |
+| Day 19–20 | **Mini Project:** Simple Users / Notes API | 🔄 In Progress |
 
 ---
 
@@ -165,7 +168,7 @@ complete-go-backend-journey/
 
 ```
 Phase 1 — Core Go         (Days 01–10)  ████████████████   100%
-Phase 2 — Backend         (Days 11–20)  ███████████░░░░░   70%
+Phase 2 — Backend         (Days 11–20)  █████████████░░░   80%
 Phase 3 — Real Features   (Days 21–30)  ░░░░░░░░░░░░░░░░   0%
 Bonus   — Docker & Deploy (Post Day 30) ░░░░░░░░░░░░░░░░   0%
 ```
@@ -210,6 +213,7 @@ Each day's concepts are documented in `/notes/dayXX.md` — written after the to
 | [day15.md](./notes/day15.md) | Full CRUD — GET, POST, PUT, DELETE handlers, in-memory store |
 | [day16.md](./notes/day16.md) | Refactored CRUD API, clean code structure, separation of concerns |
 | [day17.md](./notes/day17.md) | Database basics, SQL intro, CREATE/INSERT/SELECT/UPDATE/DELETE |
+| [day18.md](./notes/day18.md) | Go + PostgreSQL, `database/sql`, `db.Query`, `db.Exec`, connection pooling |
 
 > New note added every day. If you're stuck on a concept, read the note for that day before googling.
 
